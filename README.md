@@ -47,7 +47,7 @@ class loan_DBAdmin(admin.ModelAdmin):  # Corrected here
 
 ## OUTPUT
 ![alt text](<Screenshot 2024-11-13 145945.png>)
-![alt text](<Screenshot 2024-11-14 140850.png>)
+![alt text](<Screenshot 2024-11-13 144558.png>)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
